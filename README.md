@@ -1,2 +1,2 @@
 # hello-world
-slef-guided tutorial
+Learning new skills to contribute to project teams is my passion.
